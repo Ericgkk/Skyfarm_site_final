@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Startup were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\Users\egkik\Desktop\FINAL SITE_SKYFARM\usbwebserver\root\wordpress\wp-content\plugins\airi-demo-importer/demo-content/airi-dc-startup.xml
+Widget file = C:\Users\egkik\Desktop\FINAL SITE_SKYFARM\usbwebserver\root\wordpress\wp-content\plugins\airi-demo-importer/demo-content/airi-w-startup.wie
+Customizer file = C:\Users\egkik\Desktop\FINAL SITE_SKYFARM\usbwebserver\root\wordpress\wp-content\plugins\airi-demo-importer/demo-content/airi-c-startup.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Αναζήτηση - No Title - Widget already exists
+Πρόσφατα άρθρα - No Title - Widget already exists
+Πρόσφατα σχόλια - No Title - Widget already exists
+Ιστορικό - No Title - Widget already exists
+Kατηγορίες - No Title - Widget already exists
+Μεταστοιχεία - No Title - Widget already exists
+
+Footer 1 : 
+
+Κείμενο - No Title - Imported
+
+Footer 2 : 
+
+Κείμενο - Contact us - Imported
+
+Footer 3 : 
+
+Μενού πλοήγησης - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
